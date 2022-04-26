@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T07:09:36.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="b3wEEI4yiQ4SqHfz0P0r" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T07:11:02.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="BBHbu1LSQmCKsmp3U4qN" version="17.4.6" type="github">
   <diagram id="wGTtUC59V5wHmhvbK-3K" name="ネットワーク構成図">
     <mxGraphModel dx="1748" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,6 +123,21 @@
         </mxCell>
         <mxCell id="mK1DBSSWPfUbRcVBX1zV-41" value="ローカルネットワーク" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="973.5" y="250" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mK1DBSSWPfUbRcVBX1zV-42" value="インターネット" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="332.5" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mK1DBSSWPfUbRcVBX1zV-43" value="ファイアウォール" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="198.75" y="307.5" width="162.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mK1DBSSWPfUbRcVBX1zV-44" value="ロードバランサー" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="358.75" y="307.5" width="162.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mK1DBSSWPfUbRcVBX1zV-45" value="ロードバランサー" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="730" y="307.5" width="162.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mK1DBSSWPfUbRcVBX1zV-46" value="ロードバランサー" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="307.5" width="162.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
