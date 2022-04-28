@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T01:59:13.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ehuyE99UG34laPFHeh3e" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-28T07:28:20.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="OMvu9mJh5xOrSLbJtrMm" version="17.4.6" type="github" pages="3">
   <diagram id="wGTtUC59V5wHmhvbK-3K" name="ネットワーク構成図">
-    <mxGraphModel dx="757" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1081" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,6 +250,14 @@
         <mxCell id="VobBvDKNwLKREFtOrAN1-23" value="認証情報返却" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;fontFamily=Helvetica;fontSize=17;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="550" y="190" width="180" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3QtMXpGpzz1xk0x7pYD8" name="サブスクリプション">
+    <mxGraphModel dx="757" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
